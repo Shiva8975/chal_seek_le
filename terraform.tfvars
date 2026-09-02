@@ -10,7 +10,7 @@
   }
 
   rg3 = {
-    name     = "Rinku"
+    name     = "Dipesh"
     location = "East India"
   }
 
