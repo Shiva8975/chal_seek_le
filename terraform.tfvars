@@ -21,7 +21,7 @@
 
 rg5 = {
     name     = "Rahul"
-    location = "West India"
+    location = "Central India"
   }
 
 }
