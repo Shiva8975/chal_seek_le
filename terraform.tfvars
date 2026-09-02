@@ -11,7 +11,7 @@
 
   rg3 = {
     name     = "Dipesh"
-    location = "East India"
+    location = "Central India"
   }
 
   rg4 = {
